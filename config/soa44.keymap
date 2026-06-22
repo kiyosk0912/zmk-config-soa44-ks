@@ -37,6 +37,11 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        MO6 {
+            bindings = <&mo 6>;
+            key-positions = <41 42>;
+        };
     };
 
     macros {
